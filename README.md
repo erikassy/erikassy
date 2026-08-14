@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I’m a passionate and detail-oriented Data Analyst with a strong interest in using data to understand problems, uncover meaningful insights, and support smarter decision-making. I enjoy working with data because it allows me to look beyond numbers, identify trends and patterns, and discover the stories that data can tell.
+I’m a Data Analyst with a background in Production Engineering, passionate about using data and technology to solve problems and turn information into clear, meaningful insights.
 
-I’m naturally curious, analytical, and always willing to learn and improve. I have a growing interest in data analysis, business intelligence, data visualization, and problem-solving, and I’m continuously developing my technical and analytical skills. I value accuracy, critical thinking, attention to detail, and the ability to communicate complex information in a simple and understandable way.
+I work with Excel, SQL, Power BI, and Power Query, and I’m continuously developing my skills through hands-on learning and real-world datasets. I enjoy exploring data, finding patterns, and presenting insights in a way that is easy to understand and useful for decision-making.
 
-As a Data Analyst, my goal is to use data to help organizations make informed decisions, solve real-world problems, and create meaningful value. I’m committed to continuous learning and professional growth, while building the knowledge and experience needed to become a well-rounded and impactful data professional.
+I also share my learning journey on LinkedIn and volunteer my time teaching beginners how to use Power BI for data visualization. I’m currently growing my portfolio and working toward becoming a well-rounded Data Analyst.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
