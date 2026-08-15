@@ -27,7 +27,7 @@ I also share my learning journey on LinkedIn and volunteer my time teaching begi
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Employee Attrition & HR Analytics in Power BI; to understand why employees leave and what factors may be linked to employee turnover. 
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project B:** Creating an interactive marketing dashboard in SQL
 - **Project C:** FREE Power BI Data Visualization Workshop; currently showing beginners how to use it to visualize their data for free
 
 ## 🌱 Currently Learning 
