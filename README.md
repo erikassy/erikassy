@@ -22,7 +22,7 @@ As a Data Analyst, my goal is to use data to help organizations make informed de
 I also share my learning journey on LinkedIn and volunteer my time teaching beginners how to use Power BI for data visualization.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://erikassy.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
