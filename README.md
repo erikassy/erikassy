@@ -33,7 +33,6 @@ I also share my learning journey on LinkedIn and volunteer my time teaching begi
 ## 🌱 Currently Learning 
 
 - AI Automation with SimpliLearn
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
 
