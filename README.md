@@ -31,6 +31,7 @@ Beyond my personal projects, I’m passionate about helping others develop their
 ## 🌱 Currently Learning 
 
 - AI Automation with SimpliLearn
+- Python (Pandas)
 
 ## 🛠️ Technical Skillset
 
