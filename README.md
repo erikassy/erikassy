@@ -13,22 +13,20 @@
 </p>
 
 ## 🚀 About Me 
-I’m a passionate and detail-oriented Data Analyst with a strong interest in using data to understand problems, uncover meaningful insights, and support smarter decision-making. I enjoy working with data because it allows me to look beyond numbers, identify trends and patterns, and discover the stories that data can tell.
+I’m a Data Analyst and a graduate of Production Engineering, with expertise in transforming complex datasets into actionable insights. My work focuses on creating interactive visualizations and data-driven stories that help organizations make informed, data-backed decisions.
 
-I’m naturally curious, analytical, and always willing to learn and improve. I have a growing interest in data analysis, business intelligence, data visualization, and problem-solving, and I’m continuously developing my technical and analytical skills. I value accuracy, critical thinking, attention to detail, and the ability to communicate complex information in a simple and understandable way.
+With experience in Power BI, SQL, Excel, and data modeling, I specialize in developing comprehensive reports and dashboards that uncover patterns, trends, and opportunities within data. This portfolio showcases projects across different areas, demonstrating my ability to turn raw data into meaningful business insights.
 
-As a Data Analyst, my goal is to use data to help organizations make informed decisions, solve real-world problems, and create meaningful value. I’m committed to continuous learning and professional growth, while building the knowledge and experience needed to become a well-rounded and impactful data professional.
+Beyond my personal projects, I’m passionate about helping others develop their data skills. I have also tutored students on Power BI visualization for free, guiding them through the process of transforming data into clear, interactive, and insightful dashboards.
 
-I also share my learning journey on LinkedIn and volunteer my time teaching beginners how to use Power BI for data visualization.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://erikassy.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Employee Attrition & HR Analytics in Power BI; to understand why employees leave and what factors may be linked to employee turnover. 
-- **Project B:** Creating an interactive marketing dashboard in SQL
-- **Project C:** FREE Power BI Data Visualization Workshop; currently showing beginners how to use it to visualize their data for free
+- **Project A:** Employee Attrition & HR Analytics in Power BI; to understand why employees leave and what factors may be linked to employee turnover.
+- **Project B:** FREE Power BI Data Visualization Workshop; currently showing beginners how to use it to visualize their data for free
 
 ## 🌱 Currently Learning 
 
